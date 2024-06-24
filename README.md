@@ -36,9 +36,11 @@ Lending loan data set
 
 
 ## Technologies Used
-- library - version 1.0
-- library - version 2.0
-- library - version 3.0
+Python on jupyter notebook by anaconda 3
+Pandas
+Numpy
+Matplotlib
+Seaborn
 
 <!-- As the libraries versions keep on changing, it is recommended to mention the version of library used in this project -->
 
