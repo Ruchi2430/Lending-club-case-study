@@ -48,7 +48,7 @@ Seaborn
 Give credit here.
 - This project was inspired by...
 - References if any...
-- This project is part of case study given by UPGRAD for Lending club 
+- This project is part of case study for Lending club 
 
 ## Contact
 Created by [Ruchi2430@githubusername] - feel free to contact me!
